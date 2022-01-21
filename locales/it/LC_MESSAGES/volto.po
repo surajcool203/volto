@@ -1625,6 +1625,7 @@ msgstr "Nessuna ricorrenza impostata"
 msgid "No options"
 msgstr "Nessuna opzione"
 
+#: components/manage/BlockChooser/BlockChooser
 #: components/theme/Search/Search
 # defaultMessage: No results found
 msgid "No results found"
@@ -2102,6 +2103,7 @@ msgstr "Schema"
 msgid "Schema updates"
 msgstr "Aggiornamenti dello schema"
 
+#: components/manage/BlockChooser/BlockChooserSearch
 #: components/manage/Blocks/Search/components/SearchInput
 #: components/manage/Blocks/Search/layout/LeftColumnFacets
 #: components/manage/Blocks/Search/layout/RightColumnFacets
