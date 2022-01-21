@@ -6,6 +6,8 @@
 
 ### Feature
 
+- Added a search input in the block chooser @bipoza
+
 ### Bugfix
 
 ### Internal
